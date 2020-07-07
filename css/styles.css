@@ -1,0 +1,141 @@
+.header{
+width: 100%;
+position: fixed;
+z-index: 1;
+}
+.part{
+width: auto;
+height: 300px;
+}
+.img{
+width: auto;
+height: 300px;
+}
+
+.contact{
+ width: auto;
+ height: 400px;
+background-color: rgba(143, 68, 6, 0.171);
+}
+.h2-contact{
+display: block;
+margin-bottom: 50px;
+text-align: center;
+}
+.h3{
+text-align: center;
+}
+.formulario{
+margin: auto;
+}
+.imagen-fondo{
+width: auto;
+height: 750px;
+opacity: 0.4;
+transition: all 1.5s ease;
+}
+
+.imagen-fondo:hover{
+    
+    transform: scale(1.1);
+}
+.form-cotiza{
+margin-top: 20%;
+text-align: center;
+font-size: 50px;
+color: white;
+}
+.nosotros-cont{
+width: 100%;
+height: 600px;
+padding-top: 150px;
+}
+.texto{
+text-align: center;
+padding: 20px;
+transition: all 1.5s ease;
+}
+
+
+.fa{
+display: inline-block;
+font-size: 130px;
+text-align: center;
+color: black;
+margin: 50px;
+
+}
+h4{
+text-align: center;
+}
+.navegacion{
+padding-left: 30px;
+padding-right: 100px;
+height: 100px;
+}
+.nav-uno{
+padding-left: 50px;
+}
+
+
+li{
+    list-style: none;
+}
+.footer{
+width: 100%;
+height: 400px;
+padding-top: 100px;
+}
+.conte{
+display: inline-block;
+}
+.cont-blog{
+width: 100%;
+height: 700px;
+
+}
+.info-logo{
+width: 200px;
+height: 200px;
+float: left;
+text-align: center;
+}
+
+
+.redes{
+    float: right;
+}
+.blog-car{
+text-align: center;
+}
+.pie-linea{
+text-align: center;
+width: 100%;
+height: 100px;
+padding-top: 40px;
+background-color: black;
+color: yellow;
+bottom: 0;
+
+}
+.texto:hover{
+-webkit-box-shadow: -1px 9px 40px 12px rgba(0, 0, 0, 0.75);
+-moz-box-shadow: -1px 9px 40px 12pxrgba(0, 0, 0, 0.75);
+box-shadow:-1px 9px 40px 12pxrgba rgba(0, 0, 0, 0.75);
+
+}
+
+.inner {
+    overflow: hidden;
+    
+}
+.inner img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.5);
+}
+.footer{
+width: 100%;
+height: 500px;
+}
